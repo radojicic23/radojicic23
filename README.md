@@ -10,6 +10,8 @@
 
 <img width="50%" height="200px" align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
 
+<img width="50%" height="10px" align="right" src="https://i.imgur.com/1.png">
+
 <img width="50%" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=radojicic23&theme=tokyo-night&hide_border=true">
 
 Creating errors and writting non-readable code for a living.
