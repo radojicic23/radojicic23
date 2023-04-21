@@ -14,12 +14,12 @@
 
 <img width="50%" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=radojicic23&theme=tokyo-night&hide_border=true">
 
-Creating bugs and writting non-readable code for a living.
+Creating bugs and writing non-readable code for a living.
 <br><br>Interested in web technologies, data science, competitive programming, IT security, compilers/programming languages, reverse engineering, and blockchain.
 
-Tech:
+Writing with:
 
-<img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" /> <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow" /> <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt=" C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" />
+<img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt=" C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" /> <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" /> <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow" />
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fradojicic23&s=71&c=ff0000&bg=00000000&no=6&ff=alien&tb=&ta=)
 
