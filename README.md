@@ -21,7 +21,7 @@ Writing with:
 
 <img alt="C" align="center" src="https://img.shields.io/badge/-C-2b2929?style=flat&logo=c&logoColor=white" /> <img alt=" C++" align="center" src="https://img.shields.io/badge/-C%2B%2B-d42892?style=flat&logo=C%2B%2B&logoColor=white" /> <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=white" /> <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow" />
 
-FunFacts:
+Fun fact:
 
 Not sure if I am a good programmer or just good at googling.
 
