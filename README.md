@@ -24,7 +24,7 @@ Writing with:
 <br><br>![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fradojicic23&s=71&c=ff0000&bg=00000000&no=6&ff=alien&tb=&ta=)
 
 
-<br><br><br>
+<br><br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
