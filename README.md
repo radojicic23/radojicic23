@@ -26,10 +26,7 @@ Writing with:
 </div>
 
 <br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-</div>
+
 
 <div align="center">"𝘞𝘩𝘦𝘯 𝘐 𝘸𝘳𝘰𝘵𝘦 𝘵𝘩𝘪𝘴 𝘤𝘰𝘥𝘦, 𝘰𝘯𝘭𝘺 𝘎𝘰𝘥 𝘢𝘯𝘥 𝘐 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘰𝘰𝘥 𝘸𝘩𝘢𝘵 𝘐 𝘥𝘪𝘥. 𝘕𝘰𝘸 𝘰𝘯𝘭𝘺 𝘎𝘰𝘥 𝘬𝘯𝘰𝘸𝘴."<div> 
 
