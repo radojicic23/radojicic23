@@ -10,7 +10,7 @@
 
 <img width="50%" height="200px" align="right" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/28f4413b27e2d5142cb2cf412576b5be-1667002896/superpixelersanimation/create-a-custom-pixel-art-wallpaper-background.gif">
 
-<img width="50%" height="5px" align="right" src="https://i.imgur.com/1.png">
+
 
 Creating bugs and writing non-readable code for a living.
 <br><br>Interested in web technologies, data science, competitive programming, IT security, compilers/programming languages, reverse engineering, and blockchain.
